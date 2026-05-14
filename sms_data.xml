@@ -1,0 +1,5 @@
+^<?xml version='1.0' encoding='utf-8'?^>
+<smses count='2'^>
+  <sms body='You have received 2000 RWF from Jane Smith...' /^>
+  <sms body='Your payment of 1,000 RWF to Jane Smith...' /^>
+</smses^>
